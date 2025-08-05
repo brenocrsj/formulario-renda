@@ -1,89 +1,93 @@
 document.addEventListener('DOMContentLoaded', () => {
-    const ACCESS_CODE = "rendaflex.br";
+    const ACCESS_CODE = "rendaextra500";
     
+    // Lógica para a tela de acesso
     const accessScreen = document.getElementById('access-screen');
-    const accessCodeInput = document.getElementById('access-code-input');
-    const accessButton = document.getElementById('access-btn');
-    const multiStepForm = document.getElementById('multi-step-form');
+    if (accessScreen) {
+        const accessCodeInput = document.getElementById('access-code-input');
+        const accessButton = document.getElementById('access-btn');
 
-    // Lógica da tela de acesso
-    accessButton.addEventListener('click', () => {
-        if (accessCodeInput.value === ACCESS_CODE) {
-            accessScreen.style.display = 'none';
-            multiStepForm.style.display = 'block';
-            multiStepForm.classList.add('active');
-        } else {
-            alert("Código de acesso incorreto. Tente novamente.");
-            accessCodeInput.value = '';
-        }
-    });
+        accessButton.addEventListener('click', () => {
+            if (accessCodeInput.value === ACCESS_CODE) {
+                window.location.href = "/menu";
+            } else {
+                alert("Código de acesso inválido.");
+                accessCodeInput.value = '';
+            }
+        });
+    }
 
     // Lógica do formulário de múltiplas etapas
-    const formSteps = multiStepForm.querySelectorAll('.form-step');
-    const nextButtons = multiStepForm.querySelectorAll('.next-btn');
-    const prevButtons = multiStepForm.querySelectorAll('.prev-btn');
-    const submitButton = document.getElementById('submit-btn');
+    const form = document.getElementById('multi-step-form');
+    if (!form) return;
 
+    const formSteps = form.querySelectorAll('.form-step');
     let currentStep = 0;
 
-    function showStep(stepIndex) {
+    const updateButtons = () => {
+        const nextBtn = formSteps[currentStep].querySelector('.next-btn');
+        const prevBtn = formSteps[currentStep].querySelector('.prev-btn');
+        const submitBtn = document.getElementById('submit-btn');
+
+        if (nextBtn) {
+            nextBtn.disabled = !validateStep(currentStep);
+        }
+        if (submitBtn) {
+            submitBtn.disabled = !validateStep(currentStep);
+        }
+
+        if (prevBtn) {
+            prevBtn.style.display = (currentStep === 0) ? 'none' : 'block';
+        }
+    };
+
+    const showStep = (stepIndex) => {
         formSteps.forEach((step, index) => {
             step.classList.remove('active');
             if (index === stepIndex) {
                 step.classList.add('active');
             }
         });
-    }
+        updateButtons();
+    };
 
-    function validateStep(stepIndex) {
-        let isValid = false;
+    const validateStep = (stepIndex) => {
         const currentStepElement = formSteps[stepIndex];
         const inputs = currentStepElement.querySelectorAll('input');
         
+        let isValid = false;
         if (inputs.length > 0) {
-            isValid = Array.from(inputs).some(input => input.checked);
+            isValid = Array.from(inputs).some(input => input.checked || (input.type === 'text' && input.value.trim() !== ''));
+        } else {
+            isValid = true;
         }
         
         return isValid;
-    }
+    };
 
-    // Lógica para os botões "Próximo"
-    nextButtons.forEach(button => {
-        button.addEventListener('click', () => {
-            if (validateStep(currentStep)) {
-                currentStep++;
+    form.addEventListener('change', updateButtons);
+    form.addEventListener('input', updateButtons); // Para campos de texto
+    
+    formSteps.forEach((step, index) => {
+        const nextBtn = step.querySelector('.next-btn');
+        if (nextBtn) {
+            nextBtn.addEventListener('click', () => {
+                if (validateStep(index)) {
+                    currentStep++;
+                    showStep(currentStep);
+                }
+            });
+        }
+        
+        const prevBtn = step.querySelector('.prev-btn');
+        if (prevBtn) {
+            prevBtn.addEventListener('click', () => {
+                currentStep--;
                 showStep(currentStep);
-            }
-        });
-    });
-
-    // Lógica para os botões "Voltar"
-    prevButtons.forEach(button => {
-        button.addEventListener('click', () => {
-            currentStep--;
-            showStep(currentStep);
-        });
-    });
-
-    // Lógica para habilitar/desabilitar botões "Próximo" e "Enviar"
-    multiStepForm.addEventListener('change', (event) => {
-        const nextBtn = formSteps[currentStep].querySelector('.next-btn');
-        if (nextBtn) {
-            nextBtn.disabled = !validateStep(currentStep);
-        }
-
-        // Habilitar o botão de enviar apenas no último passo e se for válido
-        if (currentStep === formSteps.length - 1) {
-            submitButton.disabled = !validateStep(currentStep);
+            });
         }
     });
 
-    // Habilitar o botão "Próximo" inicial após o carregamento
+    // Inicializa o formulário na primeira etapa
     showStep(currentStep);
-    multiStepForm.addEventListener('change', () => {
-        const nextBtn = formSteps[currentStep].querySelector('.next-btn');
-        if (nextBtn) {
-            nextBtn.disabled = !validateStep(currentStep);
-        }
-    });
 });
