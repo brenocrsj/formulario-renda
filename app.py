@@ -31,10 +31,6 @@ def gerador_page():
 def download_planilha():
     return send_from_directory('static', 'Planilha-de-Controle-Financeiro.xlsx', as_attachment=True)
 
-@app.route('/videos')
-def videos_page():
-    return render_template('videos/videos_page.html')
-
 @app.route('/video-planilha')
 def video_planilha():
     return render_template('videos/video_planilha.html')
@@ -90,6 +86,7 @@ def resultado():
                 paixao_data = ideias_de_renda_extra.get(paixao, {})
                 habilidade_data = paixao_data.get(habilidade, {})
                 
+                # Linhas corrigidas
                 conhecimento_data = habilidade_data.get(conhecimento, {})
                 sugestoes = conhecimento_data.get(ambiente)
                 
