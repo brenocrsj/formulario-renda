@@ -119,4 +119,4 @@ def resultado():
     return render_template('resultado.html', sugestoes_agrupadas=sugestoes_agrupadas)
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(host='0.0.0.0', debug=True)
