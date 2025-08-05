@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
     const ACCESS_CODE = "rendaextra500";
-    
+
     // Lógica para a tela de acesso
     const accessScreen = document.getElementById('access-screen');
     if (accessScreen) {
