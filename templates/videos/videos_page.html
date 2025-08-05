@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeos Tutoriais</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="header-nav">
+            <h1>Vídeos Tutoriais</h1>
+            <a href="{{ url_for('menu') }}" class="menu-btn">Menu</a>
+        </div>
+        <p>Escolha um vídeo para assistir e aprimorar suas habilidades.</p>
+
+        <div class="card-container">
+            <a href="{{ url_for('video_planilha') }}" class="card">
+                <i class="fas fa-file-excel"></i>
+                <h2>Planilha na Prática</h2>
+                <p>Aprenda a usar a planilha de controle financeiro para gerenciar seus lucros.</p>
+            </a>
+
+            <a href="{{ url_for('video_gerador') }}" class="card">
+                <i class="fas fa-magic"></i>
+                <h2>Usando o Gerador</h2>
+                <p>Assista a um tutorial rápido sobre como usar o Gerador de Renda Extra.</p>
+            </a>
+        </div>
+
+        <a href="{{ url_for('menu') }}" class="back-link">Voltar ao Menu</a>
+        <footer class="footer">
+            <p>Desenvolvido por <a href="http://www.javsolucoes.com" target="_blank">javsolucoes</a></p>
+            <p>&copy; Todos os direitos autorais reservados <a href="https://www.instagram.com/rendaflex.br" target="_blank">Renda Flex</a></p>
+        </footer>
+    </div>
+</body>
+</html>

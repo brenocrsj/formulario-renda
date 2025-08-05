@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bem-vindo ao RendaFlex</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Bem-vindo ao RendaFlex!</h1>
+        <p>Seu acesso foi liberado. Escolha uma das opções abaixo para começar a transformar a sua vida financeira.</p>
+        
+        <div class="card-container">
+            <a href="{{ url_for('gerador_page') }}" class="card">
+                <i class="fas fa-magic"></i>
+                <h2>Gerador de Renda Extra</h2>
+                <p>Encontre a ideia perfeita de renda extra para você, baseada em suas paixões e habilidades.</p>
+            </a>
+            
+            <a href="{{ url_for('ebook_home') }}" class="card">
+                <i class="fas fa-book"></i>
+                <h2>Ler o E-book "O Salto"</h2>
+                <p>Leia o guia completo com a mentalidade, o plano de 7 dias e as estratégias para sua virada de chave financeira.</p>
+            </a>
+            
+            <a href="{{ url_for('download_planilha') }}" class="card">
+                <i class="fas fa-file-excel"></i>
+                <h2>Baixar Planilha de Controle</h2>
+                <p>A ferramenta essencial para organizar suas finanças, gerenciar lucros e custos do seu novo negócio.</p>
+            </a>
+
+            <a href="{{ url_for('videos_page') }}" class="card">
+                <i class="fas fa-play-circle"></i>
+                <h2>Acesse aos Vídeos</h2>
+                <p>Tutoriais rápidos para aprender a usar a planilha e o gerador de renda extra na prática.</p>
+            </a>
+        </div>
+        
+        <footer class="footer">
+            <p>Desenvolvido por <a href="http://www.javsolucoes.com" target="_blank">javsolucoes</a></p>
+            <p>&copy; Todos os direitos autorais reservados <a href="https://www.instagram.com/rendaflex.br" target="_blank">Renda Flex</a></p>
+        </footer>
+    </div>
+</body>
+</html>

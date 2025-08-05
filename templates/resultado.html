@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resultado da Renda Extra</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="header-nav">
+            <h1 class="result-header">Suas Ideias para Renda Extra</h1>
+            <a href="{{ url_for('menu') }}" class="menu-btn">Menu</a>
+        </div>
+        
+        {% if sugestoes_agrupadas %}
+            {% for grupo, sugestoes in sugestoes_agrupadas.items() %}
+                <h2>{{ grupo }}</h2>
+                <ul class="result-list">
+                    {% for sugestao in sugestoes %}
+                        <li>{{ sugestao }}</li>
+                    {% endfor %}
+                </ul>
+            {% endfor %}
+
+            <div class="quick-guide">
+                <h2>Guia Rápido: Como Começar Sua Renda Extra</h2>
+                <div class="guide-item">
+                    <h3>1. Dê o Primeiro Passo (Começar é o Mais Importante)</h3>
+                    <p>
+                        Comece pequeno, sem pressão. Escolha uma ideia e crie uma meta simples para a primeira semana, como:
+                        <ul>
+                            <li><strong>Vendas:</strong> Fazer uma única venda de um produto que você já tem.</li>
+                            <li><strong>Serviços:</strong> Oferecer seu serviço para um amigo ou vizinho de graça, em troca de feedback.</li>
+                            <li><strong>Digital:</strong> Criar um post ou vídeo simples divulgando sua ideia.</li>
+                        </ul>
+                    </p>
+                </div>
+                <div class="guide-item">
+                    <h3>2. Gerenciando Seu Tempo e Investimento</h3>
+                    <p>
+                        Não precisa de grandes investimentos. Seu maior ativo é o seu tempo.
+                        <ul>
+                            <li><strong>Quanto Investir:</strong> Inicie com o que você tem. Para serviços digitais, o investimento pode ser zero. Para produtos, comece com um capital mínimo, como R$ 50 para ingredientes de um bolo ou materiais para um artesanato, e reinvista o lucro inicial.</li>
+                            <li><strong>Gerenciamento:</strong> Separe as finanças da sua renda extra da sua vida pessoal. Anote o que você gasta e o que você ganha em uma planilha ou caderno. Estabeleça um horário fixo para se dedicar a essa atividade, mesmo que seja por apenas 1 ou 2 horas por dia.</li>
+                        </ul>
+                    </p>
+                </div>
+                <div class="guide-item">
+                    <h3>3. Atraindo Seus Primeiros Clientes</h3>
+                    <p>
+                        Seja sua própria vitrine.
+                        <ul>
+                            <li><strong>Divulgue:</strong> Use suas redes sociais pessoais para divulgar seu trabalho. Compartilhe o processo e os resultados com amigos e familiares. Peça que eles compartilhem com as redes deles.</li>
+                            <li><strong>Como Cobrar:</strong> Comece com um preço justo, considerando os custos do seu tempo e dos materiais. Não subestime seu valor. Para serviços, cobre por hora ou por projeto. Para produtos, some os custos dos ingredientes ou materiais, acrescente o custo da sua mão de obra e defina uma margem de lucro.</li>
+                        </ul>
+                    </p>
+                </div>
+                <div class="guide-item">
+                    <h3>4. O Poder do Feedback</h3>
+                    <p>
+                        Toda experiência é uma oportunidade de crescimento.
+                        <ul>
+                            <li><strong>Peça por Feedback:</strong> Sempre peça um depoimento ou uma avaliação dos seus primeiros clientes. Use esse feedback para aprimorar seu produto ou serviço.</li>
+                            <li><strong>Mantenha a Comunicação:</strong> Responda aos comentários e mensagens de forma rápida e atenciosa. Uma boa comunicação constrói confiança e fideliza o cliente.</li>
+                        </ul>
+                    </p>
+                </div>
+            </div>
+
+        {% else %}
+            <p class="no-ideas">Não foi possível encontrar sugestões ideais para a sua combinação. Tente selecionar menos filtros ou explorar outras paixões.</p>
+        {% endif %}
+
+        <a class="back-link" href="{{ url_for('menu') }}">Voltar ao Menu</a>
+
+        <footer class="footer">
+            <p>Desenvolvido por <a href="http://www.javsolucoes.com" target="_blank">javsolucoes</a></p>
+            <p>&copy; Todos os direitos autorais reservados <a href="https://www.instagram.com/rendaflex.br" target="_blank">Renda Flex</a></p>
+        </footer>
+    </div>
+</body>
+</html>

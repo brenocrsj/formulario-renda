@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Acesso Exclusivo</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Acesso Exclusivo</h1>
+        <p>Insira o código de acesso para entrar na plataforma e começar a sua jornada para a liberdade financeira.</p>
+        
+        {% if error %}
+            <p class="error">{{ error }}</p>
+        {% endif %}
+        
+        <form action="{{ url_for('acesso') }}" method="post" class="form-acesso">
+            <input type="password" name="cod_mestre" placeholder="Código de Acesso" required>
+            <button type="submit">Entrar</button>
+        </form>
+        
+        <footer class="footer">
+            <p>Desenvolvido por <a href="http://www.javsolucoes.com" target="_blank">javsolucoes</a></p>
+            <p>&copy; Todos os direitos autorais reservados <a href="https://www.instagram.com/rendaflex.br" target="_blank">Renda Flex</a></p>
+        </footer>
+    </div>
+</body>
+</html>

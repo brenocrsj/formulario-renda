@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Introdução: O Salto Começa Aqui</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="header-nav">
+            <h1>Introdução: O Salto Começa Aqui</h1>
+            <a href="{{ url_for('menu') }}" class="menu-btn">Menu</a>
+        </div>
+        <p>Você já se sentiu preso em uma rotina que não te leva a lugar nenhum? Cansado de trabalhar para realizar os sonhos dos outros enquanto os seus ficam na gaveta? Se você está lendo isso, a resposta é sim. E essa é a única resposta que importa agora.</p>
+        <p>Este e-book não é um manual de teoria. É um chamado à ação. É o mapa que vai te guiar para fora da mediocridade, do "empreguinho" que paga as contas, mas te rouba a liberdade. Este é o seu guia para o <strong>Salto</strong>.</p>
+        <p>O Salto é a sua virada de chave, o momento em que você decide parar de aceitar uma vida financeira limitada e começa a construir algo que é seu. Não se trata de sorte ou de grandes investimentos. É sobre a atitude de começar, de usar o que você já tem para criar novas oportunidades.</p>
+        <p>Ao longo destas páginas, você vai descobrir que o maior obstáculo está na sua cabeça, não na sua conta bancária. Vamos te dar as ferramentas, o plano de ataque e a mentalidade para que a renda extra se torne não apenas uma possibilidade, mas uma realidade.</p>
+        <p>Sua vida financeira está prestes a mudar. A jornada para a liberdade começa aqui, com a sua decisão de dar o primeiro passo.</p>
+        
+        <div class="navigation-buttons">
+            <a href="{{ url_for('ebook_home') }}" class="prev-btn">Sumário</a>
+            <a href="{{ url_for('ebook_capitulo1') }}" class="next-btn">Próximo ></a>
+        </div>
+        <footer class="footer">
+            <p>Desenvolvido por <a href="http://www.javsolucoes.com" target="_blank">javsolucoes</a></p>
+            <p>&copy; Todos os direitos autorais reservados <a href="https://www.instagram.com/rendaflex.br" target="_blank">Renda Flex</a></p>
+        </footer>
+    </div>
+</body>
+</html>

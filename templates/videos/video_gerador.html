@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vídeo: Usando o Gerador</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="header-nav">
+            <h1>Vídeo: Usando o Gerador</h1>
+            <a href="{{ url_for('menu') }}" class="menu-btn">Menu</a>
+        </div>
+        <div class="video-container">
+            <iframe width="100%" height="auto" src="https://www.youtube.com/embed/EXEMPLO_ID_DO_VIDEO" frameborder="0" allowfullscreen></iframe>
+        </div>
+        <p>Aprenda a usar o Gerador de Renda Extra para encontrar a ideia que mais combina com suas habilidades e paixões.</p>
+        <a href="{{ url_for('menu') }}" class="back-link">Voltar ao Menu</a>
+        <footer class="footer">
+            <p>Desenvolvido por <a href="http://www.javsolucoes.com" target="_blank">javsolucoes</a></p>
+            <p>&copy; Todos os direitos autorais reservados <a href="https://www.instagram.com/rendaflex.br" target="_blank">Renda Flex</a></p>
+        </footer>
+    </div>
+</body>
+</html>

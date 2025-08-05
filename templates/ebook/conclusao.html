@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conclusão: Deixe de Ser um Número</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="header-nav">
+            <h1>Conclusão: Deixe de Ser um Número</h1>
+            <a href="{{ url_for('menu') }}" class="menu-btn">Menu</a>
+        </div>
+        <img src="{{ url_for('static', filename='img/conclusao.png') }}" alt="Imagem que simboliza o sucesso e a liberdade financeira." style="width:100%; height:auto; border-radius: 8px; margin-bottom: 20px;">
+        <p class="sintese"><strong>A hora de provar do que você é capaz é agora. Sua jornada para a liberdade financeira está a um passo. Decida, aja e vença.</strong></p>
+        <p>A decisão está tomada. Você leu, entendeu e agora sabe exatamente o que precisa ser feito. Mas saber não é o suficiente. O que realmente vai separar você dos outros é o que você fará a partir de agora. O medo de arriscar é a âncora que te prende na mediocridade.</p>
+        <p>O <strong>Salto</strong> não é apenas sobre ganhar dinheiro. É sobre assumir o controle da sua vida. É sobre deixar de ser um número na folha de pagamento de alguém e se tornar o protagonista da sua própria história.</p>
+        <p>Prove para si mesmo que você não é essa pessoa que teme a mudança. <strong>Prove para o mundo que você é capaz de dar o salto</strong>. A sua nova vida está a um clique de distância. Use o <a href="{{ url_for('gerador_page') }}"><strong>Gerador de Renda Extra</strong></a>, comece a agir e venha nos mostrar o seu resultado no <strong>@rendaflex.br</strong>.</p>
+        <p>A jornada para a liberdade financeira é um desafio, mas a recompensa de viver a vida que você merece não tem preço.</p>
+        
+        <div class="navigation-buttons">
+            <a href="{{ url_for('ebook_capitulo5') }}" class="prev-btn">< Voltar</a>
+            <a href="{{ url_for('ebook_home') }}" class="next-btn">Sumário</a>
+        </div>
+        <footer class="footer">
+            <p>Desenvolvido por <a href="http://www.javsolucoes.com" target="_blank">javsolucoes</a></p>
+            <<p>&copy; Todos os direitos autorais reservados <a href="https://www.instagram.com/rendaflex.br" target="_blank">Renda Flex</a></p>
+        </footer>
+    </div>
+</body>
+</html>

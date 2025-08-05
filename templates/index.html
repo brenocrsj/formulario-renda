@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Renda Extra</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="header-nav">
+            <h1>Gerador de Renda Extra</h1>
+            <a href="{{ url_for('menu') }}" class="menu-btn">Menu</a>
+        </div>
+        
+        <form id="multi-step-form" action="/resultado" method="post" >
+            
+            <div class="form-step active" id="step-1">
+                <h2>1. Área de Interesse</h2>
+                <div class="form-group">
+                    <label><input type="checkbox" name="paixao" value="culinaria"> Culinária</label>
+                    <label><input type="checkbox" name="paixao" value="criacao"> Criação e Artesanato</label>
+                    <label><input type="checkbox" name="paixao" value="tecnologia"> Tecnologia</label>
+                    <label><input type="checkbox" name="paixao" value="servicos"> Serviços Pessoais e Gerais</label>
+                    <label><input type="checkbox" name="paixao" value="vendas"> Vendas e Comércio</label>
+                    <label><input type="checkbox" name="paixao" value="saude"> Saúde e Bem-Estar</label>
+                    <label><input type="checkbox" name="paixao" value="pets"> Cuidados com Pets</label>
+                    <label><input type="checkbox" name="paixao" value="educacao"> Educação</label>
+                    <label><input type="checkbox" name="paixao" value="financas"> Finanças e Investimentos</label>
+                    <label><input type="checkbox" name="paixao" value="hobbies"> Hobbies e Coleções</label>
+                    <label><input type="checkbox" name="paixao" value="eventos"> Eventos e Festas</label>
+                    <label><input type="checkbox" name="paixao" value="jardinagem"> Jardinagem e Agricultura</label>
+                    <label><input type="checkbox" name="paixao" value="fotografia"> Fotografia e Vídeo</label>
+                </div>
+                <div class="navigation-buttons">
+                    <button type="button" class="next-btn" disabled>Próximo</button>
+                </div>
+            </div>
+
+            <div class="form-step" id="step-2">
+                <h2>2. Tipo de Habilidade</h2>
+                <div class="form-group">
+                    <label><input type="checkbox" name="habilidade" value="organizacao"> Organização e Gestão</label>
+                    <label><input type="checkbox" name="habilidade" value="comunicacao"> Comunicação e Ensino</label>
+                    <label><input type="checkbox" name="habilidade" value="manual"> Trabalho Manual e Artesanal</label>
+                    <label><input type="checkbox" name="habilidade" value="digital"> Habilidades Digitais</label>
+                </div>
+                <div class="navigation-buttons">
+                    <button type="button" class="prev-btn">Voltar</button>
+                    <button type="button" class="next-btn" disabled>Próximo</button>
+                </div>
+            </div>
+
+            <div class="form-step" id="step-3">
+                <h2>3. Nível de Experiência</h2>
+                <div class="form-group">
+                    <label><input type="radio" name="conhecimento" value="iniciante"> Iniciante</label>
+                    <label><input type="radio" name="conhecimento" value="intermediario"> Intermediário</label>
+                    <label><input type="radio" name="conhecimento" value="avancado"> Avançado</label>
+                </div>
+                <div class="navigation-buttons">
+                    <button type="button" class="prev-btn">Voltar</button>
+                    <button type="button" class="next-btn" disabled>Próximo</button>
+                </div>
+            </div>
+
+            <div class="form-step" id="step-4">
+                <h2>4. Modalidade de Trabalho</h2>
+                <div class="form-group">
+                    <label><input type="checkbox" name="ambiente" value="remoto"> Remoto</label>
+                    <label><input type="checkbox" name="ambiente" value="presencial"> Presencial</label>
+                </div>
+                <div class="navigation-buttons">
+                    <button type="button" class="prev-btn">Voltar</button>
+                    <button type="submit" id="submit-btn" disabled>Gerar Ideias</button>
+                </div>
+            </div>
+            
+        </form>
+        
+        <footer class="footer">
+            <p>Desenvolvido por <a href="http://www.javsolucoes.com" target="_blank">javsolucoes</a></p>
+            <p>&copy; Todos os direitos autorais reservados <a href="https://www.instagram.com/rendaflex.br" target="_blank">Renda Flex</a></p>
+        </footer>
+    </div>
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

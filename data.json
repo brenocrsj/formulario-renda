@@ -1,0 +1,2976 @@
+{
+    "culinaria": {
+        "organizacao": {
+            "iniciante": {
+                "remoto": [
+                    "Venda e-books de receitas simples e planos de refeição.",
+                    "Ofereça organização de receitas digitais para blogs de culinária.",
+                    "Crie planilhas de gestão de estoque para pequenos negócios de culinária."
+                ],
+                "presencial": [
+                    "Organize eventos de degustação em sua vizinhança para produtos de culinária artesanal.",
+                    "Gerencie a organização da cozinha de clientes e dê dicas de armazenamento.",
+                    "Ofereça consultoria de cardápio para famílias em sua região."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Crie um sistema de gestão de pedidos e estoque para pequenos negócios de culinária.",
+                    "Ofereça consultoria de otimização de logística para produtores de alimentos artesanais online.",
+                    "Venda e-books com planos de refeições para uma semana inteira."
+                ],
+                "presencial": [
+                    "Gerencie a logística de pequenos eventos gastronômicos, como food trucks em feiras.",
+                    "Organize a cozinha de restaurantes e pequenos negócios de alimentação.",
+                    "Trabalhe com o planejamento de eventos de degustação de vinhos ou cervejas."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um sistema de organização e venda para produtores de alimentos artesanais online.",
+                    "Dê consultoria para restaurantes sobre otimização de estoque e logística.",
+                    "Crie um curso online de gestão de cozinha profissional."
+                ],
+                "presencial": [
+                    "Planeje e execute a organização de eventos de grande porte para restaurantes.",
+                    "Ofereça um serviço de gestão de eventos para empresas de culinária.",
+                    "Seja um organizador de feiras e festivais de gastronomia."
+                ]
+            }
+        },
+        "comunicacao": {
+            "iniciante": {
+                "remoto": [
+                    "Inicie um blog ou canal no YouTube de receitas simples para iniciantes.",
+                    "Crie um perfil no Instagram para compartilhar dicas de culinária e interagir com o público.",
+                    "Escreva posts para blogs de culinária como freelancer."
+                ],
+                "presencial": [
+                    "Organize pequenos workshops de culinária para amigos e familiares.",
+                    "Ofereça aulas particulares de culinária em sua casa.",
+                    "Seja um auxiliar em eventos gastronômicos, interagindo com o público."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Escreva um e-book de receitas especializadas (veganas, sem glúten) e venda online.",
+                    "Crie um canal de reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos."
+                ],
+                "presencial": [
+                    "Ofereça aulas de culinária para grupos com foco em uma cozinha específica (italiana, asiática).",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes.",
+                    "Ofereça um serviço de assessoria de imprensa para o setor de alimentação."
+                ],
+                "presencial": [
+                    "Trabalhe como chef consultor para restaurantes, criando novos cardápios.",
+                    "Dê aulas de culinária em escolas de gastronomia.",
+                    "Seja um apresentador de eventos de culinária."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie kits de ingredientes para fazer bolos em casa e venda online.",
+                    "Venda cupcakes e salgados para festas pequenas."
+                ],
+                "presencial": [
+                    "Prepare salgados e doces para festas de família.",
+                    "Ofereça o serviço de cozinheiro para pequenos jantares em domicílio.",
+                    "Comece a vender bolos e doces para cafeterias e padarias locais."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça um serviço de marmitas saudáveis para entrega em domicílio.",
+                    "Crie um menu personalizado de doces e salgados para eventos.",
+                    "Venda produtos artesanais, como geleias e pães caseiros."
+                ],
+                "presencial": [
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais.",
+                    "Monte uma barraquinha de comidas em feiras e mercados locais."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Monte um serviço de buffet com entrega e venda online para eventos.",
+                    "Crie um e-commerce de produtos de culinária artesanal.",
+                    "Ofereça um serviço de consultoria em produção de alimentos."
+                ],
+                "presencial": [
+                    "Inaugure um serviço de catering para eventos de grande porte.",
+                    "Abra um pequeno negócio de alimentos gourmet.",
+                    "Seja um chef de cozinha freelancer para restaurantes."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça um serviço de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais."
+                ]
+            }
+        }
+    },
+    "criacao": {
+        "organizacao": {
+            "iniciante": {
+                "remoto": [
+                    "Venda planilhas e templates digitais simples para organização pessoal.",
+                    "Crie um e-book de checklists para organização de projetos de arte.",
+                    "Ofereça serviços de 'Personal Organizer' para artistas e criadores de conteúdo."
+                ],
+                "presencial": [
+                    "Organize eventos de artesanato para grupos de amigos.",
+                    "Ajude na organização de ateliês e espaços de trabalho de artesãos.",
+                    "Organize feiras de produtores locais para a comunidade."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de 'Personal Organizer' para artistas e criadores de conteúdo.",
+                    "Crie e-books com planos de projeto de artesanato.",
+                    "Crie um curso online para iniciantes sobre como organizar a cozinha."
+                ],
+                "presencial": [
+                    "Organize feiras e exposições de arte e artesanato em sua comunidade.",
+                    "Seja um organizador de workshops e eventos criativos.",
+                    "Trabalhe como guia em tours gastronômicos locais."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um software de gestão de projetos para criadores.",
+                    "Dê consultoria online de gestão de carreira para artistas.",
+                    "Gerencie a organização e logística de lojas de artesanato online."
+                ],
+                "presencial": [
+                    "Atue como curador de exposições ou eventos de arte.",
+                    "Organize festivais de cultura e artesanato em sua cidade.",
+                    "Seja um consultor de produção para artistas."
+                ]
+            }
+        },
+        "comunicacao": {
+            "iniciante": {
+                "remoto": [
+                    "Escreva posts para blogs de arte ou artesanato.",
+                    "Crie conteúdo para redes sociais de outros artesãos.",
+                    "Crie um e-book de receitas simples para vender online."
+                ],
+                "presencial": [
+                    "Dê aulas de artesanato para crianças em sua vizinhança.",
+                    "Ofereça workshops de desenho para iniciantes.",
+                    "Organize pequenos workshops de culinária para amigos e familiares."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Crie um e-book sobre o seu processo criativo e venda online.",
+                    "Seja um copywriter para marcas de artesanato e arte.",
+                    "Gerencie a comunicação online de artistas e ateliês."
+                ],
+                "presencial": [
+                    "Ministre workshops de pintura ou desenho para adultos iniciantes.",
+                    "Dê aulas particulares de um instrumento musical.",
+                    "Trabalhe como recreador em festas infantis, com foco em arte."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um canal no YouTube de aulas de pintura ou desenho.",
+                    "Seja um consultor de comunicação para galerias de arte.",
+                    "Venda um curso online completo de escrita criativa."
+                ],
+                "presencial": [
+                    "Dê aulas de arte em uma escola ou ateliê.",
+                    "Atue como palestrante em eventos sobre criatividade e arte.",
+                    "Ministre cursos avançados de pintura a óleo ou escultura."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais."
+                ]
+            }
+        }
+    },
+    "tecnologia": {
+        "organizacao": {
+            "iniciante": {
+                "remoto": [
+                    "Ofereça serviços de Assistente Virtual, gerenciando tarefas administrativas online.",
+                    "Organize arquivos digitais e pastas para clientes.",
+                    "Organize eventos e pequenos workshops de tecnologia para a sua comunidade."
+                ],
+                "presencial": [
+                    "Organize eventos e pequenos workshops de tecnologia para a sua comunidade.",
+                    "Seja um voluntário para organizar eventos de tecnologia.",
+                    "Ofereça serviços de Assistente Virtual, gerenciando tarefas administrativas online."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Gerencie projetos para freelancers ou pequenas agências.",
+                    "Crie sistemas de organização de arquivos em nuvem para clientes.",
+                    "Gerencie a logística de vendas de e-commerce."
+                ],
+                "presencial": [
+                    "Seja o organizador e mediador de meetups e eventos de tecnologia.",
+                    "Ofereça consultoria de gestão de projetos para startups.",
+                    "Gerencie projetos para freelancers ou pequenas agências."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Preste consultoria de gestão de projetos e implementação de sistemas para empresas.",
+                    "Gerencie a equipe de desenvolvimento de software de uma empresa.",
+                    "Crie softwares de organização e produtividade para nichos específicos."
+                ],
+                "presencial": [
+                    "Organize e gerencie eventos e conferências de tecnologia.",
+                    "Seja um consultor de implementação de softwares para grandes empresas.",
+                    "Preste consultoria de gestão de projetos e implementação de sistemas para empresas."
+                ]
+            }
+        },
+        "comunicacao": {
+            "iniciante": {
+                "remoto": [
+                    "Crie posts para blogs de tecnologia ou escreva avaliações de produtos.",
+                    "Traduza textos e legendas de vídeos de tecnologia.",
+                    "Ofereça serviços de Assistente Virtual, gerenciando tarefas administrativas online."
+                ],
+                "presencial": [
+                    "Dê aulas de informática ou de uso de softwares em sua vizinhança.",
+                    "Seja um voluntário em eventos de tecnologia, auxiliando na comunicação.",
+                    "Organize eventos e pequenos workshops de tecnologia para a sua comunidade."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Crie um canal no YouTube sobre reviews de produtos de tecnologia.",
+                    "Seja um criador de conteúdo patrocinado por marcas de tecnologia.",
+                    "Atue como copywriter para sites e blogs de tecnologia."
+                ],
+                "presencial": [
+                    "Atue como palestrante em eventos de tecnologia locais.",
+                    "Ministre workshops sobre temas específicos de tecnologia para a comunidade.",
+                    "Seja um consultor de comunicação para pequenos negócios de tecnologia."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda um curso online sobre uma linguagem de programação.",
+                    "Seja um consultor de comunicação para startups de tecnologia.",
+                    "Gerencie as redes sociais de grandes empresas do setor."
+                ],
+                "presencial": [
+                    "Trabalhe como consultor técnico para empresas, auxiliando na comunicação de projetos.",
+                    "Dê aulas avançadas de programação ou desenvolvimento.",
+                    "Trabalhe como consultor técnico para empresas."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Crie um canal de tutoriais sobre montagem e manutenção de computadores.",
+                    "Venda e-books com guias de montagem de PCs.",
+                    "Ofereça serviços de montagem e manutenção de computadores para amigos."
+                ],
+                "presencial": [
+                    "Ofereça serviços de montagem e manutenção de computadores para amigos.",
+                    "Faça pequenos consertos em computadores de vizinhos.",
+                    "Ofereça serviços de montagem e manutenção de computadores para amigos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de manutenção de sites e blogs.",
+                    "Crie tutoriais em vídeo sobre conserto de eletrônicos.",
+                    "Seja o técnico de informática de pequenos negócios da sua região."
+                ],
+                "presencial": [
+                    "Seja o técnico de informática de pequenos negócios da sua região.",
+                    "Preste serviços de conserto de eletrônicos como celulares e tablets.",
+                    "Ofereça serviços de manutenção de sites e blogs."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Especialize-se em consertos de eletrônicos ou smartphones.",
+                    "Crie tutoriais de conserto de hardwares complexos.",
+                    "Monte um pequeno negócio de assistência técnica em sua casa."
+                ],
+                "presencial": [
+                    "Monte um pequeno negócio de assistência técnica em sua casa.",
+                    "Trabalhe como técnico de manutenção para empresas locais.",
+                    "Especialize-se em consertos de eletrônicos ou smartphones."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie landing pages simples para negócios locais usando construtores como o Wix ou Webflow.",
+                    "Faça e venda templates de sites simples.",
+                    "Edite vídeos curtos para outros criadores de conteúdo."
+                ],
+                "presencial": [
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Gerencie as redes sociais de pequenas empresas, criando e editando vídeos e fotos.",
+                    "Crie e venda presets de edição de fotos para fotógrafos.",
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs."
+                ],
+                "presencial": [
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Desenvolva um aplicativo ou um site personalizado para um cliente.",
+                    "Crie e venda um software para nichos específicos.",
+                    "Trabalhe como consultor de desenvolvimento de software."
+                ],
+                "presencial": [
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota."
+                ]
+            }
+        }
+    },
+    "servicos": {
+        "organizacao": {
+            "iniciante": {
+                "remoto": [
+                    "Ofereça serviços de 'Personal Organizer' virtual, ajudando pessoas a organizar arquivos digitais.",
+                    "Crie um e-book de organização de tarefas e venda online.",
+                    "Venda planilhas e templates digitais simples para organização pessoal."
+                ],
+                "presencial": [
+                    "Organize os armários e closets de amigos e vizinhos.",
+                    "Ajude na organização da mudança de um familiar.",
+                    "Organize eventos de artesanato para grupos de amigos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Crie planilhas de organização para freelancers e pequenos negócios.",
+                    "Ofereça consultoria de organização de e-mail e tarefas online.",
+                    "Crie um e-book com dicas para organizar projetos de freelancers."
+                ],
+                "presencial": [
+                    "Ajude pessoas a organizar e empacotar seus pertences para uma mudança.",
+                    "Trabalhe como Personal Organizer em casas e escritórios.",
+                    "Ofereça serviços de organização para pequenos eventos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um software de gestão de tarefas ou um sistema de organização para empresas.",
+                    "Dê consultoria de organização para grandes empresas.",
+                    "Ofereça um curso online de 'Personal Organizer' profissional."
+                ],
+                "presencial": [
+                    "Preste consultoria de organização para grandes empresas ou escritórios.",
+                    "Gerencie a equipe de organização de um evento de grande porte.",
+                    "Crie um negócio de organização de eventos e casamentos."
+                ]
+            }
+        },
+        "comunicacao": {
+            "iniciante": {
+                "remoto": [
+                    "Dê aulas particulares de um idioma que você domina para crianças.",
+                    "Escreva e-mails e respostas para clientes de pequenos negócios.",
+                    "Crie posts para blogs de arte ou artesanato."
+                ],
+                "presencial": [
+                    "Trabalhe como recepcionista em eventos ou como garçom freelancer.",
+                    "Ajude a organizar e comunicar eventos locais.",
+                    "Dê aulas de artesanato para crianças em sua vizinhança."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Atue como assistente virtual, gerenciando a comunicação de um profissional.",
+                    "Crie conteúdo para newsletters de empresas.",
+                    "Ofereça serviços de transcrição de áudio."
+                ],
+                "presencial": [
+                    "Ministre pequenos workshops de comunicação ou oratória.",
+                    "Trabalhe como guia turístico em sua cidade.",
+                    "Seja um palestrante de eventos locais."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Seja consultor de comunicação e marketing para empresas.",
+                    "Crie um curso online de comunicação para profissionais.",
+                    "Gerencie a comunicação online de grandes empresas."
+                ],
+                "presencial": [
+                    "Trabalhe como relações públicas em eventos.",
+                    "Atue como palestrante sobre comunicação em empresas.",
+                    "Gerencie a comunicação interna de uma empresa."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Crie um e-book sobre como fazer reparos básicos para vender online.",
+                    "Venda tutoriais em vídeo sobre pequenos consertos caseiros.",
+                    "Ofereça consultoria remota para pequenos consertos."
+                ],
+                "presencial": [
+                    "Ofereça serviços de Dog Walker ou Pet Sitter.",
+                    "Faça manicure e pedicure para amigas e familiares.",
+                    "Corte a grama e cuide de jardins de vizinhos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Crie tutoriais em vídeo sobre como fazer reparos ou customizações mais complexas.",
+                    "Venda um curso online de consertos básicos em casa.",
+                    "Ofereça consultoria de projetos de paisagismo online."
+                ],
+                "presencial": [
+                    "Faça serviços de 'Marido de Aluguel' para pequenos reparos.",
+                    "Dê aulas de artesanato em sua casa.",
+                    "Seja um massagista freelancer."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Venda cursos online de consertos complexos de eletrodomésticos.",
+                    "Crie um e-book detalhado sobre paisagismo.",
+                    "Crie um curso de massagem ou yoga para vender online."
+                ],
+                "presencial": [
+                    "Trabalhe como Massagista ou Personal Trainer.",
+                    "Preste consultoria de jardinagem e paisagismo.",
+                    "Abra um pequeno salão de beleza em casa."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Ofereça serviços de transcrição de áudios para vídeos.",
+                    "Crie posts para redes sociais de pequenos negócios.",
+                    "Venda e-books com dicas de organização para freelances."
+                ],
+                "presencial": [
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Gerencie as redes sociais de pet shops ou de ONGs.",
+                    "Crie e edite vídeos para profissionais da área de serviços.",
+                    "Crie planilhas de organização para freelancers e pequenos negócios."
+                ],
+                "presencial": [
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Preste consultoria de marketing digital para profissionais da área de serviços.",
+                    "Crie um aplicativo para agendamento de serviços.",
+                    "Dê aulas de como usar softwares de gestão."
+                ],
+                "presencial": [
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais."
+                ]
+            }
+        }
+    },
+    "vendas": {
+        "organizacao": {
+            "iniciante": {
+                "remoto": [
+                    "Crie um brechó online para vender roupas que você não usa mais.",
+                    "Organize e revenda livros e objetos de segunda mão.",
+                    "Faça dropshipping de produtos de nicho, sem precisar de estoque."
+                ],
+                "presencial": [
+                    "Organize bazares em sua vizinhança para vender itens de segunda mão.",
+                    "Ajude amigos a venderem itens que eles não usam mais.",
+                    "Gerencie a logística de vendas de pequenos produtores."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Faça dropshipping de produtos de nicho, sem precisar de estoque.",
+                    "Gerencie a logística de vendas de pequenos produtores de artesanato.",
+                    "Revenda produtos comprados em feiras de garagem ou bazares."
+                ],
+                "presencial": [
+                    "Revenda produtos comprados em feiras de garagem ou bazares.",
+                    "Preste serviços de organização para pequenos negócios de varejo.",
+                    "Gerencie a logística de vendas de pequenos produtores."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Gerencie a logística de vendas de pequenos produtores.",
+                    "Ofereça consultoria de organização de estoque e vendas para e-commerce.",
+                    "Abra um pequeno negócio de revenda de produtos exclusivos."
+                ],
+                "presencial": [
+                    "Abra um pequeno negócio de revenda de produtos exclusivos.",
+                    "Seja um consultor de vendas para grandes empresas.",
+                    "Gerencie a logística de vendas de pequenos produtores de artesanato."
+                ]
+            }
+        },
+        "comunicacao": {
+            "iniciante": {
+                "remoto": [
+                    "Seja um afiliado digital, divulgando produtos em suas redes sociais.",
+                    "Crie um blog ou canal de reviews de produtos.",
+                    "Crie um perfil para divulgar kits de culinária e vender online."
+                ],
+                "presencial": [
+                    "Revenda produtos de catálogos (Natura, Avon) para amigos e familiares.",
+                    "Venda produtos artesanais em feiras e mercados.",
+                    "Dê aulas de artesanato para crianças em sua vizinhança."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Crie um canal de reviews de produtos no YouTube ou Instagram.",
+                    "Seja um criador de conteúdo pago por marcas.",
+                    "Trabalhe como afiliado de infoprodutos."
+                ],
+                "presencial": [
+                    "Atue como representante de vendas para empresas locais.",
+                    "Faça demonstração de produtos em lojas e eventos.",
+                    "Ministre workshops de pintura ou desenho para adultos iniciantes."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Ofereça consultoria de vendas e marketing para negócios online.",
+                    "Crie e venda um curso online sobre como vender mais.",
+                    "Gerencie as redes sociais de grandes empresas com foco em vendas."
+                ],
+                "presencial": [
+                    "Gerencie a equipe de vendas de um pequeno negócio.",
+                    "Seja um palestrante de vendas e motivação.",
+                    "Dê aulas de arte em uma escola ou ateliê."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda produtos artesanais feitos por encomenda, como bijuterias.",
+                    "Crie kits de produtos para vender online.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes."
+                ],
+                "presencial": [
+                    "Revenda produtos customizados por você em feiras de artesanato.",
+                    "Venda itens de segunda mão após uma pequena restauração.",
+                    "Faça peças de artesanato por encomenda para amigos e familiares."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Trabalhe como personal shopper, comprando produtos para clientes de forma remota.",
+                    "Crie e venda coleções de roupas de segunda mão.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online."
+                ],
+                "presencial": [
+                    "Revenda produtos de segunda mão após restaurá-los.",
+                    "Trabalhe em feiras e eventos, montando e vendendo produtos.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda um curso online sobre como fazer e vender produtos artesanais.",
+                    "Monte um negócio de revenda de antiguidades ou itens colecionáveis.",
+                    "Crie e venda produtos de alta qualidade, como joias de autor."
+                ],
+                "presencial": [
+                    "Abra uma pequena loja física de itens de segunda mão.",
+                    "Seja um consultor de vendas de móveis antigos.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Use plataformas de e-commerce como o Mercado Livre para vender produtos simples.",
+                    "Crie um e-book com dicas para vender online.",
+                    "Seja um afiliado digital, divulgando produtos em suas redes sociais."
+                ],
+                "presencial": [
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Crie e gerencie sua própria loja virtual.",
+                    "Trabalhe com dropshipping, gerenciando a loja e o marketing.",
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs."
+                ],
+                "presencial": [
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Gerencie anúncios de vendas online e otimize campanhas.",
+                    "Seja um consultor de e-commerce para grandes empresas.",
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade."
+                ],
+                "presencial": [
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota."
+                ]
+            }
+        }
+    },
+    "saude": {
+        "organizacao": {
+            "iniciante": {
+                "remoto": [
+                    "Crie e venda planilhas digitais de controle de dieta e exercícios.",
+                    "Ofereça serviços de organização de treinos para atletas amadores.",
+                    "Monte um e-book de checklists para organização de rotinas saudáveis."
+                ],
+                "presencial": [
+                    "Organize a rotina de exercícios de amigos e vizinhos.",
+                    "Ajude na organização de agendas de nutricionistas e personal trainers.",
+                    "Organize eventos de bem-estar em sua comunidade."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de 'Personal Organizer' para atletas e profissionais de saúde.",
+                    "Crie e-books com planos de treino e dieta.",
+                    "Crie um curso online para iniciantes sobre como organizar a rotina saudável."
+                ],
+                "presencial": [
+                    "Organize feiras e exposições de bem-estar em sua comunidade.",
+                    "Seja um organizador de workshops e eventos de saúde.",
+                    "Trabalhe como guia em tours de ciclismo ou corrida."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um software de gestão de rotinas de saúde para clínicas.",
+                    "Dê consultoria online de gestão de carreira para profissionais de saúde.",
+                    "Gerencie a organização e logística de lojas de suplementos online."
+                ],
+                "presencial": [
+                    "Atue como curador de exposições ou eventos de arte.",
+                    "Organize festivais de cultura e artesanato em sua cidade.",
+                    "Seja um consultor de produção para artistas."
+                ]
+            }
+        },
+        "comunicacao": {
+            "iniciante": {
+                "remoto": [
+                    "Crie posts para blogs de saúde e bem-estar.",
+                    "Crie conteúdo para redes sociais de outros profissionais de saúde.",
+                    "Crie um e-book de receitas simples para vender online."
+                ],
+                "presencial": [
+                    "Dê aulas de artesanato para crianças em sua vizinhança.",
+                    "Ofereça workshops de desenho para iniciantes.",
+                    "Organize pequenos workshops de culinária para amigos e familiares."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Crie um e-book sobre o seu processo criativo e venda online.",
+                    "Seja um copywriter para marcas de artesanato e arte.",
+                    "Gerencie a comunicação online de artistas e ateliês."
+                ],
+                "presencial": [
+                    "Ministre workshops de pintura ou desenho para adultos iniciantes.",
+                    "Dê aulas particulares de um instrumento musical.",
+                    "Trabalhe como recreador em festas infantis, com foco em arte."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um canal no YouTube de aulas de pintura ou desenho.",
+                    "Seja um consultor de comunicação para galerias de arte.",
+                    "Venda um curso online completo de escrita criativa."
+                ],
+                "presencial": [
+                    "Dê aulas de arte em uma escola ou ateliê.",
+                    "Atue como palestrante em eventos sobre criatividade e arte.",
+                    "Ministre cursos avançados de pintura a óleo ou escultura."
+                ]
+            },
+            "manual": {
+                "iniciante": {
+                    "remoto": [
+                        "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                        "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                        "Ofereça serviços de personalização de itens (roupas, canecas) online."
+                    ],
+                    "presencial": [
+                        "Faça peças de artesanato por encomenda para amigos e familiares.",
+                        "Crie e venda produtos customizados em bazares e feiras locais.",
+                        "Preste serviços de costura e conserto de roupas."
+                    ]
+                },
+                "intermediario": {
+                    "remoto": [
+                        "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                        "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                        "Participe de feiras de artesanato para vender seus produtos."
+                    ],
+                    "presencial": [
+                        "Participe de feiras de artesanato para vender seus produtos.",
+                        "Preste serviços de costura e conserto de roupas.",
+                        "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                    ]
+                },
+                "avancado": {
+                    "remoto": [
+                        "Crie e venda produtos de alta qualidade, como joias de autor.",
+                        "Abra um e-commerce de arte e artesanato.",
+                        "Ofereça serviços de design e produção de joias personalizadas."
+                    ],
+                    "presencial": [
+                        "Abra um pequeno ateliê para produzir e vender suas criações.",
+                        "Ministre workshops avançados de artesanato.",
+                        "Crie um negócio de customização de carros ou motos."
+                    ]
+                }
+            },
+            "digital": {
+                "iniciante": {
+                    "remoto": [
+                        "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                        "Edite vídeos curtos para outros criadores de conteúdo.",
+                        "Crie um canal no YouTube ou Instagram de tutoriais de culinária."
+                    ],
+                    "presencial": [
+                        "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                        "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                        "Seja um criador de conteúdo para marcas de alimentos."
+                    ]
+                },
+                "intermediario": {
+                    "remoto": [
+                        "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                        "Crie presets de edição de fotos para food bloggers.",
+                        "Edite vídeos de culinária para outros criadores de conteúdo."
+                    ],
+                    "presencial": [
+                        "Seja um fotógrafo de alimentos para restaurantes locais.",
+                        "Faça sessões de fotos de culinária para blogs e marcas.",
+                        "Produza e edite vídeos de culinária para restaurantes."
+                    ]
+                },
+                "avancado": {
+                    "remoto": [
+                        "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                        "Desenvolva um aplicativo de receitas personalizadas.",
+                        "Venda seu trabalho como consultor de marketing digital para marcas de alimentos."
+                    ],
+                    "presencial": [
+                        "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                        "Produza e edite vídeos de culinária para restaurantes.",
+                        "Seja um consultor de marketing digital para restaurantes locais."
+                    ]
+                }
+            }
+        }
+    },
+    "pets": {
+        "organizacao": {
+            "iniciante": {
+                "remoto": [
+                    "Crie e venda planilhas digitais para controle de vacinas e consultas de pets.",
+                    "Ofereça serviços de organização de rotina de cuidados para donos de pets.",
+                    "Monte um e-book de checklists para organizar a chegada de um novo pet."
+                ],
+                "presencial": [
+                    "Organize a rotina de exercícios de pets de amigos e vizinhos.",
+                    "Ajude na organização de agendas de veterinários e pet shops.",
+                    "Organize eventos de bem-estar em sua comunidade."
+                ]
+            },
+            "comunicacao": {
+                "iniciante": {
+                    "remoto": [
+                        "Crie posts para blogs de pets e bem-estar animal.",
+                        "Crie conteúdo para redes sociais de outros profissionais de pets.",
+                        "Crie um e-book de receitas simples para vender online."
+                    ],
+                    "presencial": [
+                        "Dê aulas de artesanato para crianças em sua vizinhança.",
+                        "Ofereça workshops de desenho para iniciantes.",
+                        "Organize pequenos workshops de culinária para amigos e familiares."
+                    ]
+                },
+                "intermediario": {
+                    "remoto": [
+                        "Crie um e-book sobre o seu processo criativo e venda online.",
+                        "Seja um copywriter para marcas de artesanato e arte.",
+                        "Gerencie a comunicação online de artistas e ateliês."
+                    ],
+                    "presencial": [
+                        "Ministre workshops de pintura ou desenho para adultos iniciantes.",
+                        "Dê aulas particulares de um instrumento musical.",
+                        "Trabalhe como recreador em festas infantis, com foco em arte."
+                    ]
+                },
+                "avancado": {
+                    "remoto": [
+                        "Crie um canal no YouTube de aulas de pintura ou desenho.",
+                        "Seja um consultor de comunicação para galerias de arte.",
+                        "Venda um curso online completo de escrita criativa."
+                    ],
+                    "presencial": [
+                        "Dê aulas de arte em uma escola ou ateliê.",
+                        "Atue como palestrante em eventos sobre criatividade e arte.",
+                        "Ministre cursos avançados de pintura a óleo ou escultura."
+                    ]
+                },
+                "manual": {
+                    "iniciante": {
+                        "remoto": [
+                            "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                            "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                            "Ofereça serviços de personalização de itens (roupas, canecas) online."
+                        ],
+                        "presencial": [
+                            "Faça peças de artesanato por encomenda para amigos e familiares.",
+                            "Crie e venda produtos customizados em bazares e feiras locais.",
+                            "Preste serviços de costura e conserto de roupas."
+                        ]
+                    },
+                    "intermediario": {
+                        "remoto": [
+                            "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                            "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                            "Participe de feiras de artesanato para vender seus produtos."
+                        ],
+                        "presencial": [
+                            "Participe de feiras de artesanato para vender seus produtos.",
+                            "Preste serviços de costura e conserto de roupas.",
+                            "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                        ]
+                    },
+                    "avancado": {
+                        "remoto": [
+                            "Crie e venda produtos de alta qualidade, como joias de autor.",
+                            "Abra um e-commerce de arte e artesanato.",
+                            "Ofereça serviços de design e produção de joias personalizadas."
+                        ],
+                        "presencial": [
+                            "Abra um pequeno ateliê para produzir e vender suas criações.",
+                            "Ministre workshops avançados de artesanato.",
+                            "Crie um negócio de customização de carros ou motos."
+                        ]
+                    }
+                },
+                "digital": {
+                    "iniciante": {
+                        "remoto": [
+                            "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                            "Edite vídeos curtos para outros criadores de conteúdo.",
+                            "Crie um canal no YouTube ou Instagram de tutoriais de culinária."
+                        ],
+                        "presencial": [
+                            "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                            "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                            "Seja um criador de conteúdo para marcas de alimentos."
+                        ]
+                    },
+                    "intermediario": {
+                        "remoto": [
+                            "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                            "Crie presets de edição de fotos para food bloggers.",
+                            "Edite vídeos de culinária para outros criadores de conteúdo."
+                        ],
+                        "presencial": [
+                            "Seja um fotógrafo de alimentos para restaurantes locais.",
+                            "Faça sessões de fotos de culinária para blogs e marcas.",
+                            "Produza e edite vídeos de culinária para restaurantes."
+                        ]
+                    },
+                    "avancado": {
+                        "remoto": [
+                            "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                            "Desenvolva um aplicativo de receitas personalizadas.",
+                            "Venda seu trabalho como consultor de marketing digital para marcas de alimentos."
+                        ],
+                        "presencial": [
+                            "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                            "Produza e edite vídeos de culinária para restaurantes.",
+                            "Seja um consultor de marketing digital para restaurantes locais."
+                        ]
+                    }
+                }
+            },
+            "manual": {
+                "iniciante": {
+                    "remoto": [
+                        "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                        "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                        "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                        "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                        "Participe de feiras de artesanato para vender seus produtos."
+                    ],
+                    "presencial": [
+                        "Faça peças de artesanato por encomenda para amigos e familiares.",
+                        "Crie e venda produtos customizados em bazares e feiras locais.",
+                        "Preste serviços de costura e conserto de roupas.",
+                        "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                        "Crie um kit de ingredientes e receita para fazer bolos em casa."
+                    ]
+                },
+                "intermediario": {
+                    "remoto": [
+                        "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                        "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                        "Participe de feiras de artesanato para vender seus produtos.",
+                        "Preste serviços de costura e conserto de roupas.",
+                        "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                    ],
+                    "presencial": [
+                        "Participe de feiras de artesanato para vender seus produtos.",
+                        "Preste serviços de costura e conserto de roupas.",
+                        "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                        "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                        "Venda cupcakes e salgados para festas pequenas."
+                    ]
+                },
+                "avancado": {
+                    "remoto": [
+                        "Crie e venda produtos de alta qualidade, como joias de autor.",
+                        "Abra um e-commerce de arte e artesanato.",
+                        "Ofereça serviços de design e produção de joias personalizadas.",
+                        "Trabalhe como chef particular para eventos ou jantares especiais.",
+                        "Preste serviço de catering para eventos corporativos e sociais."
+                    ],
+                    "presencial": [
+                        "Abra um pequeno ateliê para produzir e vender suas criações.",
+                        "Ministre workshops avançados de artesanato.",
+                        "Crie um negócio de customização de carros ou motos.",
+                        "Trabalhe como chef particular para eventos ou jantares especiais.",
+                        "Preste serviço de catering para eventos corporativos e sociais."
+                    ]
+                }
+            },
+            "digital": {
+                "iniciante": {
+                    "remoto": [
+                        "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                        "Edite vídeos curtos para outros criadores de conteúdo.",
+                        "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                        "Crie um perfil para divulgar kits de culinária e vender online.",
+                        "Venda e-books de receitas simples para iniciantes."
+                    ],
+                    "presencial": [
+                        "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                        "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                        "Seja um criador de conteúdo para marcas de alimentos.",
+                        "Trabalhe como guia em tours gastronômicos locais.",
+                        "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                    ]
+                },
+                "intermediario": {
+                    "remoto": [
+                        "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                        "Crie presets de edição de fotos para food bloggers.",
+                        "Edite vídeos de culinária para outros criadores de conteúdo.",
+                        "Crie e venda um curso de culinária online com certificação.",
+                        "Atue como consultor de comunicação para chefs e restaurantes."
+                    ],
+                    "presencial": [
+                        "Seja um fotógrafo de alimentos para restaurantes locais.",
+                        "Faça sessões de fotos de culinária para blogs e marcas.",
+                        "Produza e edite vídeos de culinária para restaurantes.",
+                        "Trabalhe como guia em tours gastronômicos locais.",
+                        "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                    ]
+                },
+                "avancado": {
+                    "remoto": [
+                        "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                        "Desenvolva um aplicativo de receitas personalizadas.",
+                        "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                        "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                        "Seja um consultor de comunicação para grandes negócios de culinária."
+                    ],
+                    "presencial": [
+                        "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                        "Produza e edite vídeos de culinária para restaurantes.",
+                        "Seja um consultor de marketing digital para restaurantes locais.",
+                        "Trabalhe como guia em tours gastronômicos locais.",
+                        "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                    ]
+                }
+            }
+        }
+    },
+    "manual": {
+        "iniciante": {
+            "remoto": [
+                "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                "Participe de feiras de artesanato para vender seus produtos."
+            ],
+            "presencial": [
+                "Faça peças de artesanato por encomenda para amigos e familiares.",
+                "Crie e venda produtos customizados em bazares e feiras locais.",
+                "Preste serviços de costura e conserto de roupas.",
+                "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                "Crie um kit de ingredientes e receita para fazer bolos em casa."
+            ]
+        },
+        "intermediario": {
+            "remoto": [
+                "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                "Participe de feiras de artesanato para vender seus produtos.",
+                "Preste serviços de costura e conserto de roupas.",
+                "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+            ],
+            "presencial": [
+                "Participe de feiras de artesanato para vender seus produtos.",
+                "Preste serviços de costura e conserto de roupas.",
+                "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                "Venda cupcakes e salgados para festas pequenas."
+            ]
+        },
+        "avancado": {
+            "remoto": [
+                "Crie e venda produtos de alta qualidade, como joias de autor.",
+                "Abra um e-commerce de arte e artesanato.",
+                "Ofereça serviços de design e produção de joias personalizadas.",
+                "Trabalhe como chef particular para eventos ou jantares especiais.",
+                "Preste serviço de catering para eventos corporativos e sociais."
+            ],
+            "presencial": [
+                "Abra um pequeno ateliê para produzir e vender suas criações.",
+                "Ministre workshops avançados de artesanato.",
+                "Crie um negócio de customização de carros ou motos.",
+                "Trabalhe como chef particular para eventos ou jantares especiais.",
+                "Preste serviço de catering para eventos corporativos e sociais."
+            ]
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                    "Venda cupcakes e salgados para festas pequenas."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        }
+    },
+    "manual": {
+        "iniciante": {
+            "remoto": [
+                "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                "Participe de feiras de artesanato para vender seus produtos."
+            ],
+            "presencial": [
+                "Faça peças de artesanato por encomenda para amigos e familiares.",
+                "Crie e venda produtos customizados em bazares e feiras locais.",
+                "Preste serviços de costura e conserto de roupas.",
+                "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                "Crie um kit de ingredientes e receita para fazer bolos em casa."
+            ]
+        },
+        "intermediario": {
+            "remoto": [
+                "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                "Participe de feiras de artesanato para vender seus produtos.",
+                "Preste serviços de costura e conserto de roupas.",
+                "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+            ],
+            "presencial": [
+                "Participe de feiras de artesanato para vender seus produtos.",
+                "Preste serviços de costura e conserto de roupas.",
+                "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                "Venda cupcakes e salgados para festas pequenas."
+            ]
+        },
+        "avancado": {
+            "remoto": [
+                "Crie e venda produtos de alta qualidade, como joias de autor.",
+                "Abra um e-commerce de arte e artesanato.",
+                "Ofereça serviços de design e produção de joias personalizadas.",
+                "Trabalhe como chef particular para eventos ou jantares especiais.",
+                "Preste serviço de catering para eventos corporativos e sociais."
+            ],
+            "presencial": [
+                "Abra um pequeno ateliê para produzir e vender suas criações.",
+                "Ministre workshops avançados de artesanato.",
+                "Crie um negócio de customização de carros ou motos.",
+                "Trabalhe como chef particular para eventos ou jantares especiais.",
+                "Preste serviço de catering para eventos corporativos e sociais."
+            ]
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                    "Venda cupcakes e salgados para festas pequenas."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                    "Venda cupcakes e salgados para festas pequenas."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                    "Venda cupcakes e salgados para festas pequenas."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                    "Venda cupcakes e salgados para festas pequenas."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        }
+    },
+    "vendas": {
+        "organizacao": {
+            "iniciante": {
+                "remoto": [
+                    "Crie um brechó online para vender roupas que você não usa mais.",
+                    "Organize e revenda livros e objetos de segunda mão.",
+                    "Faça dropshipping de produtos de nicho, sem precisar de estoque.",
+                    "Gerencie a logística de vendas de pequenos produtores de artesanato.",
+                    "Organize bazares em sua vizinhança para vender itens de segunda mão."
+                ],
+                "presencial": [
+                    "Organize bazares em sua vizinhança para vender itens de segunda mão.",
+                    "Ajude amigos a venderem itens que eles não usam mais.",
+                    "Gerencie a logística de vendas de pequenos produtores.",
+                    "Ofereça consultoria de organização de estoque e vendas para e-commerce.",
+                    "Abra um pequeno negócio de revenda de produtos exclusivos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Faça dropshipping de produtos de nicho, sem precisar de estoque.",
+                    "Gerencie a logística de vendas de pequenos produtores de artesanato.",
+                    "Revenda produtos comprados em feiras de garagem ou bazares.",
+                    "Preste serviços de organização para pequenos negócios de varejo.",
+                    "Gerencie a logística de vendas de pequenos produtores."
+                ],
+                "presencial": [
+                    "Revenda produtos comprados em feiras de garagem ou bazares.",
+                    "Preste serviços de organização para pequenos negócios de varejo.",
+                    "Gerencie a logística de vendas de pequenos produtores.",
+                    "Ofereça consultoria de organização de estoque e vendas para e-commerce.",
+                    "Abra um pequeno negócio de revenda de produtos exclusivos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Gerencie a logística de vendas de pequenos produtores.",
+                    "Ofereça consultoria de organização de estoque e vendas para e-commerce.",
+                    "Abra um pequeno negócio de revenda de produtos exclusivos.",
+                    "Seja um consultor de vendas para grandes empresas.",
+                    "Gerencie a logística de vendas de pequenos produtores de artesanato."
+                ],
+                "presencial": [
+                    "Abra um pequeno negócio de revenda de produtos exclusivos.",
+                    "Seja um consultor de vendas para grandes empresas.",
+                    "Gerencie a logística de vendas de pequenos produtores de artesanato.",
+                    "Revenda produtos comprados em feiras de garagem ou bazares.",
+                    "Preste serviços de organização para pequenos negócios de varejo."
+                ]
+            }
+        },
+        "comunicacao": {
+            "iniciante": {
+                "remoto": [
+                    "Seja um afiliado digital, divulgando produtos em suas redes sociais.",
+                    "Crie um blog ou canal de reviews de produtos.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes.",
+                    "Ofereça um serviço de consultoria de cardápio e venda de planos de refeição online."
+                ],
+                "presencial": [
+                    "Revenda produtos de catálogos (Natura, Avon) para amigos e familiares.",
+                    "Venda produtos artesanais em feiras e mercados.",
+                    "Dê aulas de artesanato para crianças em sua vizinhança.",
+                    "Ofereça workshops de desenho para iniciantes.",
+                    "Organize pequenos workshops de culinária para amigos e familiares."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Crie um canal de reviews de produtos no YouTube ou Instagram.",
+                    "Seja um criador de conteúdo pago por marcas.",
+                    "Trabalhe como afiliado de infoprodutos.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Atue como representante de vendas para empresas locais.",
+                    "Faça demonstração de produtos em lojas e eventos.",
+                    "Ministre workshops de pintura ou desenho para adultos iniciantes.",
+                    "Dê aulas particulares de um instrumento musical.",
+                    "Trabalhe como recreador em festas infantis, com foco em arte."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Ofereça consultoria de vendas e marketing para negócios online.",
+                    "Crie e venda um curso online sobre como vender mais.",
+                    "Gerencie as redes sociais de grandes empresas com foco em vendas.",
+                    "Crie um canal no YouTube sobre reviews de produtos de tecnologia.",
+                    "Seja um criador de conteúdo para grandes marcas de alimentos."
+                ],
+                "presencial": [
+                    "Gerencie a equipe de vendas de um pequeno negócio.",
+                    "Seja um palestrante de vendas e motivação.",
+                    "Dê aulas de arte em uma escola ou ateliê.",
+                    "Atue como palestrante em eventos sobre criatividade e arte.",
+                    "Ministre cursos avançados de pintura a óleo ou escultura."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda produtos artesanais feitos por encomenda, como bijuterias.",
+                    "Crie kits de produtos para vender online.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração."
+                ],
+                "presencial": [
+                    "Revenda produtos customizados por você em feiras de artesanato.",
+                    "Venda itens de segunda mão após uma pequena restauração.",
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Trabalhe como personal shopper, comprando produtos para clientes de forma remota.",
+                    "Crie e venda coleções de roupas de segunda mão.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Revenda produtos de segunda mão após restaurá-los.",
+                    "Trabalhe em feiras e eventos, montando e vendendo produtos.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda um curso online sobre como fazer e vender produtos artesanais.",
+                    "Monte um negócio de revenda de antiguidades ou itens colecionáveis.",
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas."
+                ],
+                "presencial": [
+                    "Abra uma pequena loja física de itens de segunda mão.",
+                    "Seja um consultor de vendas de móveis antigos.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Use plataformas de e-commerce como o Mercado Livre para vender produtos simples.",
+                    "Crie um e-book com dicas para vender online.",
+                    "Seja um afiliado digital, divulgando produtos em suas redes sociais.",
+                    "Crie um blog ou canal de reviews de produtos.",
+                    "Crie um perfil para divulgar kits de culinária e vender online."
+                ],
+                "presencial": [
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Crie e gerencie sua própria loja virtual.",
+                    "Trabalhe com dropshipping, gerenciando a loja e o marketing.",
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo."
+                ],
+                "presencial": [
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Gerencie anúncios de vendas online e otimize campanhas.",
+                    "Seja um consultor de e-commerce para grandes empresas.",
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos."
+                ],
+                "presencial": [
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota.",
+                    "Não aplicável, o ideal é a opção remota."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                    "Venda cupcakes e salgados para festas pequenas."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                    "Venda cupcakes e salgados para festas pequenas."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                    "Venda cupcakes e salgados para festas pequenas."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                    "Venda cupcakes e salgados para festas pequenas."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                    "Venda cupcakes e salgados para festas pequenas."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                    "Venda cupcakes e salgados para festas pequenas."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                    "Venda cupcakes e salgados para festas pequenas."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        },
+        "manual": {
+            "iniciante": {
+                "remoto": [
+                    "Venda bijuterias e peças de artesanato simples em sites como o Elo7.",
+                    "Crie um perfil no Instagram para vender kits de pintura ou costura para iniciantes.",
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos."
+                ],
+                "presencial": [
+                    "Faça peças de artesanato por encomenda para amigos e familiares.",
+                    "Crie e venda produtos customizados em bazares e feiras locais.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de personalização de itens (roupas, canecas) online.",
+                    "Crie e venda produtos mais complexos, como roupas artesanais ou peças de decoração.",
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais."
+                ],
+                "presencial": [
+                    "Participe de feiras de artesanato para vender seus produtos.",
+                    "Preste serviços de costura e conserto de roupas.",
+                    "Venda bolos de pote e doces caseiros por encomenda via redes sociais.",
+                    "Crie um kit de ingredientes e receita para fazer bolos em casa.",
+                    "Venda cupcakes e salgados para festas pequenas."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie e venda produtos de alta qualidade, como joias de autor.",
+                    "Abra um e-commerce de arte e artesanato.",
+                    "Ofereça serviços de design e produção de joias personalizadas.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ],
+                "presencial": [
+                    "Abra um pequeno ateliê para produzir e vender suas criações.",
+                    "Ministre workshops avançados de artesanato.",
+                    "Crie um negócio de customização de carros ou motos.",
+                    "Trabalhe como chef particular para eventos ou jantares especiais.",
+                    "Preste serviço de catering para eventos corporativos e sociais."
+                ]
+            }
+        },
+        "digital": {
+            "iniciante": {
+                "remoto": [
+                    "Crie modelos de posts para o Canva e venda em plataformas digitais.",
+                    "Edite vídeos curtos para outros criadores de conteúdo.",
+                    "Crie um canal no YouTube ou Instagram de tutoriais de culinária.",
+                    "Crie um perfil para divulgar kits de culinária e vender online.",
+                    "Venda e-books de receitas simples para iniciantes."
+                ],
+                "presencial": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie um canal no YouTube sobre reviews de restaurantes e produtos de culinária.",
+                    "Seja um criador de conteúdo para marcas de alimentos.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "intermediario": {
+                "remoto": [
+                    "Ofereça serviços de fotografia de alimentos para restaurantes e blogs.",
+                    "Crie presets de edição de fotos para food bloggers.",
+                    "Edite vídeos de culinária para outros criadores de conteúdo.",
+                    "Crie e venda um curso de culinária online com certificação.",
+                    "Atue como consultor de comunicação para chefs e restaurantes."
+                ],
+                "presencial": [
+                    "Seja um fotógrafo de alimentos para restaurantes locais.",
+                    "Faça sessões de fotos de culinária para blogs e marcas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            },
+            "avancado": {
+                "remoto": [
+                    "Crie um curso digital com vídeos e materiais didáticos de alta qualidade.",
+                    "Desenvolva um aplicativo de receitas personalizadas.",
+                    "Venda seu trabalho como consultor de marketing digital para marcas de alimentos.",
+                    "Crie planilhas e templates de gestão de estoque para restaurantes.",
+                    "Seja um consultor de comunicação para grandes negócios de culinária."
+                ],
+                "presencial": [
+                    "Trabalhe como fotógrafo profissional de alimentos para revistas e livros de receitas.",
+                    "Produza e edite vídeos de culinária para restaurantes.",
+                    "Seja um consultor de marketing digital para restaurantes locais.",
+                    "Trabalhe como guia em tours gastronômicos locais.",
+                    "Ministre workshops sobre técnicas de preparo e conservação de alimentos."
+                ]
+            }
+        }
+    }
+}
+@app.route('/')
+def home():
+    return render_template('index.html')
+
+@app.route('/resultado', methods=['POST'])
+def resultado():
+    paixoes = request.form.getlist('paixao')
+    habilidade = request.form.get('habilidade')
+    conhecimento = request.form.get('conhecimento')
+    ambiente = request.form.get('ambiente')
+    
+    sugestoes_finais = []
+    
+    for paixao in paixoes:
+        sugestoes = ideias_de_renda_extra.get(paixao, {}).get(habilidade, {}).get(conhecimento, {}).get(ambiente)
+        
+        if isinstance(sugestoes, list):
+            sugestoes_finais.extend(sugestoes)
+        else:
+            sugestoes_finais.append(sugestoes)
+
+    sugestoes_finais = list(dict.fromkeys(sugestoes_finais))
+
+    if not sugestoes_finais or "não aplicável" in sugestoes_finais[0].lower():
+        fallback_sugestoes = []
+        for paixao in paixoes:
+            paixao_ideas = ideias_de_renda_extra.get(paixao)
+            if paixao_ideas:
+                habilidade_key = random.choice(list(paixao_ideas.keys()))
+                conhecimento_key = random.choice(list(paixao_ideas[habilidade_key].keys()))
+                ambiente_key = random.choice(list(paixao_ideas[habilidade_key][conhecimento_key].keys()))
+                fallback_sugestoes.extend(paixao_ideas[habilidade_key][conhecimento_key][ambiente_key])
+
+        if fallback_sugestoes:
+            sugestoes_finais = list(dict.fromkeys(random.sample(fallback_sugestoes, min(10, len(fallback_sugestoes)))))
+        else:
+            sugestoes_finais = ["Não foi possível encontrar sugestões ideais. Tente outras combinações!"]
+
+    return render_template('resultado.html', sugestoes=sugestoes_finais)
+
+if __name__ == '__main__':
+    app.run(debug=True)
